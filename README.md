@@ -87,14 +87,25 @@ All scripts print:
 
 ## Screenshots
 
-Captured sample outputs are included for quick reference:
+Captured sample outputs are embedded below for quick reference:
 
-- `fcfs.png`
-- `sjf.png`
-- `srtf.png`
-- `round-robin.png`
-- `priority-non-preemtive.png`
-- `priority-preemtive.png`
+**FCFS**
+![FCFS](fcfs.png)
+
+**SJF**
+![SJF](sjf.png)
+
+**SRTF**
+![SRTF](srtf.png)
+
+**Round Robin**
+![Round Robin](round-robin.png)
+
+**Priority — Non-Preemptive**
+![Priority Non-Preemptive](priority-non-preemtive.png)
+
+**Priority — Preemptive**
+![Priority Preemptive](priority-preemtive.png)
 
 
 ## Troubleshooting
@@ -106,6 +117,5 @@ Captured sample outputs are included for quick reference:
 ## Notes
 
 - For educational purposes only. Metrics and timelines are kept simple to make the logic easy to follow.
-
-# coded by zainuddin@codemaster.my
-# for educational purposes only
+- coded by zainuddin@codemaster.my
+- for educational purposes only
